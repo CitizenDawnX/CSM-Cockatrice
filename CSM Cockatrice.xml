@@ -52,7 +52,7 @@ Whenever Doctor Medico is dealt damage, you gain that much life.</text>
       <tablerow>2</tablerow>
       <text>Flying, first strike
 Metalcraft — Chip gets +2/+0 as long as you control three or more artifacts.
-Whenever Chip deals combat damage to a player, exile target card from that player’s graveyard</text>
+Whenever Chip deals combat damage to a player, exile target card from that player’s graveyard.</text>
     </card>
     <card>
       <name>Senator Emily Parsons</name>
@@ -66,7 +66,7 @@ Whenever Chip deals combat damage to a player, exile target card from that playe
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Parley — {W}, {T}: Each player reveals the top card of their library. For each nonland revealed this way, put a +1/+1 counter on another creature you control. Then each player draws a card.</text>
+      <text>Parley — {W}, {T}: Each player reveals the top card of their library. Put a +1/+1 counter on X other creatures, where X is the number of nonland cards revealed this way. Then each player draws a card.</text>
     </card>
     <card>
       <name>Eduardo Lopez</name>
@@ -199,7 +199,7 @@ Morbid — At the beginning of each end step, if a creature died this turn, inve
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1U, {T}: Choose up to as many Equipment that are attached to Cueball. You can choose the same more more than once—
+      <text>1U, {T}: Choose up to X, where X is the number of Equipment attached to Cueball. You can choose the same more more than once—
 • Tap target creature.
 • Scry 1.
 • Investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
@@ -275,7 +275,7 @@ Morbid — At the beginning of each end step, if a creature died this turn, inve
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a non-Vampire creature dies, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+      <text>Whenever another creature dies, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
 Vampires you control have ward {X}, where X is the number of Blood tokens you control.
 {T}: Blood Countess Bathory deals 1 damage to target creature. Put a blood counter on that creature. It becomes a Vampire in addition to its other types.</text>
     </card>
@@ -628,7 +628,7 @@ Whenever a creature an opponent controls dies, you may transform S’sdari the B
       </prop>
       <tablerow>2</tablerow>
       <text>Equip costs you pay cost {1} less.
-Whenever Fashion attacks, draw a card for each equipment attached to Fashion.
+Whenever Fashion attacks, draw a card for each Equipment attached to Fashion.
 ---
 (Front): S&apos;sdari the Bloody</text>
       <related attach="transform">S&apos;sdari the Bloody</related>
@@ -676,7 +676,7 @@ Whenever a creature with a -1/-1 counter on it dies, put a +1/+1 counter on Spit
       </prop>
       <tablerow>2</tablerow>
       <text>Absolute Zero gets +0/+1 for each Equipment attached to it.
-Whenever this creature is dealt noncombat damage, Absolute Zero deals that much damage to any target. If a permanent was dealt damage this way, tap that permanent and put a stun counter on it.</text>
+Whenever Absolute Zero is dealt noncombat damage, Absolute Zero deals that much damage to any target. If a permanent was dealt damage this way, tap that permanent and put a stun counter on it.</text>
     </card>
     <card>
       <name>Galactra, Chosen of the Fervor</name>
@@ -814,7 +814,7 @@ Discard a card with mana value X: The next time a source of your choice would de
       <tablerow>2</tablerow>
       <text>Flying, vigilance
 Other creatures you control get +1/+1.
-Whenever Legacy attacks, untap target creature. After this combat phase, there is an additional combat phase. This ability triggers only once each turn.</text>
+Whenever Legacy attacks, untap target creature.</text>
     </card>
     <card>
       <name>Sheriff Pratt</name>
@@ -967,8 +967,8 @@ Whenever you sacrifice a Clue, choose one—
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever you cast a noncreature spell, you may pay {2}. If you do, put X +1/+1 counters on target land you control, where X is the spell’s mana value. It becomes a 0/0 Elemental creature with haste. It’s still a land.
-Whenever a land creature you control dies, return it to the battlefield tapped.</text>
+Whenever you cast a noncreature spell, you may pay {2}. If you do, put X +1/+1 counters on target land you control, where X is that spell’s mana value. It becomes a 0/0 Elemental creature with haste. It’s still a land.
+Whenever a land creature you control dies, return it to the battlefield tapped under its owner’s control.</text>
     </card>
     <card>
       <name>Mainstay, Southwest Slugger</name>
@@ -1046,7 +1046,7 @@ Remove a luck counter from this creature: The next spell you cast this turn has 
         <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Each nonlegendary nonhuman creature card in your hand has mutate. It’s mutate cost is equal to its mana cost plus {1}. (If you cast a spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</text>
+      <text>Each nonlegendary nonhuman creature card in your hand has mutate. Its mutate cost is equal to its mana cost plus {1}. (If you cast a spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</text>
     </card>
     <card>
       <name>The Harpy</name>
@@ -1175,7 +1175,7 @@ Whenever another Outlaw enters under your control, The Operative deals 1 damage 
         <pt>*/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Deadline, Eco-Vandal deals combat damage to a player, each player sacrifices a land.
+      <text>Whenever Deadline, Eco-Vandal enters or deals combat damage to a player, each player sacrifices a land.
 Deadline’s power is equal to the number of lands in all graveyards.</text>
     </card>
     <card>
@@ -1305,8 +1305,8 @@ When Writhe deals combat damage to a player, draw a card.
       </prop>
       <tablerow>2</tablerow>
       <text>Hexproof
-At the beginning of each upkeep, that player investigates.
-Whenever a Clue is sacrificed, each player mills three cards.
+At the beginning of each player’s upkeep, that player investigates.
+Whenever a player sacrifices a Clue, each player mills three cards.
 Threshold — At the beginning of your end step, if you have seven or more cards in your graveyard, transform Aminia Twain.
 ---
 (Back): Miss Information</text>
@@ -1562,7 +1562,7 @@ Creatures you control have afflict 1. (Whenever this creature becomes blocked, d
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Chrono-Ranger deals combat damage to a creature with an Aura you control attached to it, destroy that creature.
+      <text>Whenever Chrono-Ranger deals damage to a creature with an Aura you control attached to it, destroy that creature.
 {T}: Chrono-Ranger deals 1 damage to target creature.</text>
     </card>
     <card>
@@ -3238,7 +3238,7 @@ When this Aura enters, all non-Demon creatures get -2/-2 until end of turn.</tex
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, mill three cards. You may put an artifact card from among the cards milled this way into your hand. If you don’t, put a +1/+1 counter on this creature.</text>
+      <text>When this creature enters, mill three cards. You may put an artifact card from among them into your hand. If you don’t, put a +1/+1 counter on this creature.</text>
     </card>
     <card>
       <name>Pustulent Wretch</name>
@@ -4697,7 +4697,7 @@ Crew 4</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature has first strike and reach and gets +2/+0.
+      <text>Equipped creature get +2/+0 and has first strike and reach.
 Equip {3}</text>
     </card>
     <card>
@@ -5160,7 +5160,7 @@ Whenever a one or more Demons you control deal combat damage to a player, that p
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put X target Soldier creature cards from your graveyard onto the battlefield.</text>
+      <text>Return X target Soldier creature cards from your graveyard onto the battlefield.</text>
     </card>
     <card>
       <name>Resurrection Rites</name>
@@ -5764,8 +5764,8 @@ Equip—Discard a card</text>
       </prop>
       <tablerow>1</tablerow>
       <text>As this enchantment enters, choose an opponent. At the beginning of your upkeep, choose one—
-• Set your life total to the chosen player’s life total.
-• Set the chosen player’s life total to your life total.
+• You life total becomes equal to the chosen player’s life total.
+• The chosen player’s life total becomes equal to your life total.
 Whenever the chosen player loses the game, sacrifice this enchantment.</text>
     </card>
     <card>
@@ -5948,7 +5948,7 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Discard a card: Sacrifice Atlantean Font of Power.
-At the start of each player’s end step, that player reveals the top card of their library. If a permanent card is revealed this way, put it onto the battlefield tapped.</text>
+At the beginning of each player’s end step, that player reveals the top card of their library. If a permanent card is revealed this way, that player puts it onto the battlefield tapped.</text>
     </card>
 
     <!-->Tokens</-->
