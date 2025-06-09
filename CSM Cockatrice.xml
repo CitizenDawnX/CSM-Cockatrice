@@ -320,7 +320,7 @@ At the beginning of your end step, you can pay X life and remove X +1/+1 counter
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Soldiers you control gets +1/+0.
+      <text>Other soldiers you control get +1/+0.
 Whenever a creature that was dealt combat damage by a Soldier you control this turn dies, draw a card.</text>
     </card>
     <card>
@@ -472,7 +472,7 @@ Creatures with -1/-1 counters must block if able.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Doctor Toxica enters, if it was cast, put an wither counter on target creature you control. (This deals damage to creatures in the form of -1/-1 counters.)
+      <text>When Doctor Toxica enters, if it was cast, put a wither counter on target creature you control. (This deals damage to creatures in the form of -1/-1 counters.)
 Whenever one or more -1/-1 counters are put on a creature you don’t control, you may return Doctor Toxica to your hand.        </text>
     </card>
     <card>
