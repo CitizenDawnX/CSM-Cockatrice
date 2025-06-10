@@ -441,7 +441,7 @@ Whenever a Plant dies, draw a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Enrage — Whenever Deeproot is dealt damage, put a -1/-1 counter on target creature that source’s controller controls.
-Creatures with -1/-1 counters must block if able.</text>
+Creatures your opponents control with -1/-1 counters must block if able.</text>
     </card>
     <card>
       <name>The Naturalist</name>
@@ -1077,7 +1077,7 @@ Whenever one or more Birds you control deals combat damage to a player, draw a c
       <tablerow>2</tablerow>
       <text>Trample
 Devour 2 (As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)
-Whenever another creature you control dies, put a +1/+1 counter on Bugbear.     </text>
+Whenever another creature dies, put a +1/+1 counter on Bugbear.     </text>
     </card>
     <card>
       <name>Tabitha Taft, Reporter</name>
@@ -1435,7 +1435,7 @@ Whenever Fanatic attacks, destroy up to one target artifact or enchantment with 
         <cmc>5</cmc>
         <type>Legendary Creature - Plant </type>
         <maintype>Creature</maintype>
-        <pt>0/9</pt>
+        <pt>0/6</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -4028,7 +4028,7 @@ Amphibious Chupacabra gets +1/+0 as long as an opponent controls an Island.</tex
       <tablerow>2</tablerow>
       <text>This creature enters with eight -1/-1 counters on it.
 Whenever a -1/-1 counter is removed from this creature, gain 1 life.
-At the beginning of each upkeep, remove a -1/-1 counter from this creature.</text>
+At the beginning of your upkeep, remove a -1/-1 counter from this creature.</text>
     </card>
     <card>
       <name>Bloated Husk</name>
