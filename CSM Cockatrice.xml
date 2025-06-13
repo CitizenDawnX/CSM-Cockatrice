@@ -66,7 +66,7 @@ Whenever Chip deals combat damage to a player, exile target card from that playe
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Parley — {W}, {T}: Each player reveals the top card of their library. Put a +1/+1 counter on X other creatures, where X is the number of nonland cards revealed this way. Then each player draws a card.</text>
+      <text>Parley — {W}, {T}: Each player reveals the top card of their library. Put a +1/+1 counter on up to X other creatures, where X is the number of nonland cards revealed this way. Then each player draws a card.</text>
     </card>
     <card>
       <name>Eduardo Lopez</name>
@@ -124,7 +124,7 @@ Whenever Eduardo Lopez dies, investigate.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Whenever you draw your first card outside of your draw step each turn, Parse deals 1 damage to any target.
+Whenever you draw a card except the first card you draw in each of your draw steps, Parse deals 1 damage to any target. This ability triggers only once each turn.
 Morbid — At the beginning of each end step, if a creature died this turn, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
     </card>
     <card>
@@ -166,12 +166,13 @@ Morbid — At the beginning of each end step, if a creature died this turn, inve
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature - Alien </type>
+        <type>Legendary Creature - Alien Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Phrentat attacks, target player mills cards equal to Phrentat’s power.</text>
+      <text>Flying
+Whenever Phrentat attacks, target player mills cards equal to Phrentat’s power.</text>
     </card>
     <card>
       <name>Slamara, the Last Xarabian</name>
@@ -320,7 +321,7 @@ At the beginning of your end step, you can pay X life and remove X +1/+1 counter
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Other soldiers you control get +1/+0.
+      <text>Other Soldiers you control get +1/+0.
 Whenever a creature that was dealt combat damage by a Soldier you control this turn dies, draw a card.</text>
     </card>
     <card>
@@ -410,8 +411,8 @@ Sacrifice an equipment named Rock attached to Megan Lee: Megan Lee gets +1/+1 un
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hatch enters, reveal card from the top of your library until you reveal an outlaw card, put that card into your hand, then put the revealed cards onto the bottom of your library in a random order. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
-{2}: Another target outlaw you control can’t be blocked this turn. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)</text>
+      <text>When Hatch enters, reveal cards from the top of your library until you reveal an outlaw card, put that card into your hand, then put the other revealed cards onto the bottom of your library in a random order. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+{2}: Another target outlaw you control can’t be blocked this turn.</text>
     </card>
     <card>
       <name>Green Grosser</name>
@@ -533,7 +534,7 @@ Whenever one or more -1/-1 counters are put on a creature you don’t control, y
       </prop>
       <tablerow>2</tablerow>
       <text>When Kuranchu enters, put two +1/+1 counters on target creature you control.
-1G, {T}: Move up to three counters from one target creature you control to another target creature you control.</text>
+1G, {T}: Move up to three counters from target creature you control to another target creature you control.</text>
     </card>
     <card>
       <name>Ray Manta, Paranoid Provisioner</name>
@@ -564,7 +565,7 @@ Metalcraft — At the beginning of your upkeep, if you control three or more art
       <tablerow>2</tablerow>
       <text>Menace
 Whenever Highbrow attacks, each player mills three cards.
-Threshold — As long as seven or more cards are in your graveyard, this creature gets +3/+0.</text>
+Threshold — This creature gets +3/+0 as long as there are seven or more cards in your graveyard.</text>
     </card>
     <card>
       <name>The Hayes Brothers</name>
@@ -580,7 +581,7 @@ Threshold — As long as seven or more cards are in your graveyard, this creatur
       <tablerow>2</tablerow>
       <text>First strike
 Other outlaws you control get +1/+0. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
-Whenever one or more outlaw creatures you control deal combat damage to a player, create a Treasure token.</text>
+Whenever one or more outlaws you control deal combat damage to a player, create a Treasure token.</text>
     </card>
     <card>
       <name>Doctor Tremata</name>
@@ -782,7 +783,7 @@ Whenever a creature with a -1/-1 counter on it dies, create a 2/2 black Zombie c
         <pt>5/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When K.N.Y.F.E. fights another creature, it gains indestructible until end of turn. Draw a card.
+      <text>Whenever K.N.Y.F.E. would fight another creature, instead it gains indestructible until end of turn, then fights that creature. Draw a card.
 R/GR/G, {T}: K.N.Y.F.E. fights target creature.</text>
     </card>
     <card>
@@ -843,7 +844,7 @@ Whenever Legacy attacks, untap target creature.</text>
         <pt>0/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>2U, {T}: Destroy target creature. If that creature is destroyed, its controller reveals cards from the top of their library until they reveal a creature card that shares a creature type with the destroyed card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into their library.</text>
+      <text>2U, {T}: Destroy target creature. If that creature is destroyed this way, its controller reveals cards from the top of their library until they reveal a creature card that shares a creature type with the destroyed card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into their library.</text>
     </card>
     <card>
       <name>Judge Mental</name>
@@ -934,7 +935,7 @@ At the beginning of your upkeep, scry X, where X is the number of creatures you 
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>XW/U, {T}, Sacrifice an artifact with mana value X: Reveal card from the top of your library until you reveal an artifact creature with mana value X, put it onto the battlefield tapped, then shuffle.</text>
+      <text>XW/U, {T}, Sacrifice an artifact with mana value X: Reveal cards from the top of your library until you reveal an artifact creature with mana value X, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>The Wraith</name>
@@ -1015,7 +1016,7 @@ Discard a card: Mainstay gains indestructible until end of turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When Quetzalcoatl attacks, you may sacrifice a creature. If you do, you may exchange control of a basic land you control with a basic land an opponent controls.
+When Quetzalcoatl attacks, you may sacrifice a creature. If you do, you may exchange control target basic land you control and target basic land an opponent controls.
 Domain — Quetzalcoatl gets +2/+0 for each basic land type among lands you control.</text>
     </card>
     <card>
@@ -1061,7 +1062,7 @@ Remove a luck counter from this creature: The next spell you cast this turn has 
       </prop>
       <tablerow>2</tablerow>
       <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, create a 1/1 black Bird creature token with flying.
-Whenever one or more Birds you control deals combat damage to a player, draw a card.</text>
+Whenever one or more Birds you control deal combat damage to a player, draw a card.</text>
     </card>
     <card>
       <name>Bugbear, Bloody Brawler</name>
@@ -1161,7 +1162,7 @@ Other creatures you control get +1/+1.
       </prop>
       <tablerow>2</tablerow>
       <text>Haste, vigilance, first strike
-Whenever another Outlaw enters under your control, The Operative deals 1 damage to target creature you don’t control. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)</text>
+Whenever another outlaw enters under your control, The Operative deals 1 damage to target creature you don’t control. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)</text>
     </card>
     <card>
       <name>Deadline, Eco-Vandal</name>
@@ -1242,7 +1243,7 @@ Enchanted creatures you control get +1/+1 for each Aura attached to them.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Each noncreature artifact becomes an artifact creature with power and toughness equal to its mana value. They are goaded.</text>
+Each noncreature artifact is an artifact creature with power and toughness equal to its mana value. They are goaded.</text>
     </card>
     <card>
       <name>Plague Rat, Patient Zero</name>
@@ -1257,7 +1258,7 @@ Each noncreature artifact becomes an artifact creature with power and toughness 
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
-Corrupted — At the beginning of your end step, for each opponent who has three or more poison counters, goad a creature that player controls.</text>
+Corrupted — At the beginning of your end step, for each opponent who has three or more poison counters, goad target creature that player controls.</text>
     </card>
     <card>
       <name>Omnitron-X</name>
@@ -1376,7 +1377,7 @@ Whenever you cast a creature spell from exile, it enters with a manifestation co
       <tablerow>2</tablerow>
       <text>Other creatures you control named Proletariat, People’s Champion get -1/-1.
 The “legend rule” doesn’t apply to permanents you control.
-Enrage — Whenever Proletariat is dealt damage, create a copy of Proletariat.         </text>
+Enrage — Whenever Proletariat is dealt damage, create a token copy of Proletariat.</text>
     </card>
     <card>
       <name>NightMist, Master of Magic</name>
@@ -1454,8 +1455,8 @@ Whenever you gain life for the first time each turn, put a +1/+1 counter on each
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a nontoken artifact you control enters, you may draw a card then discard a card.
-Whenever an artifact you control is destroyed, Luminary, “Reformed” Inventor deals 1 damage to any target.
+      <text>Whenever a nontoken artifact you control enters, you may draw a card. If you do, discard a card.
+Whenever an artifact you control is put into the graveyard from the battlefield, Luminary, “Reformed” Inventor deals 1 damage to any target.
 UR, {T}, Sacrifice an artifact: Return target artifact card with mana value equal to 1 plus the sacrificed artifact’s mana value to the battlefield.</text>
     </card>
     <card>
@@ -1547,8 +1548,8 @@ Creatures you control have afflict 1. (Whenever this creature becomes blocked, d
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste, vigilance
-{T}, Discard a card: Regenerate Iron Legacy. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)
-{Q}, Discard a card: Iron Legacy fights another target creature.</text>
+{T}, Discard a card: Iron Legacy fights target creature.
+{Q}, Discard a card: Regenerate Iron Legacy. Activate this only once per turn. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
     </card>
     <card>
       <name>Chrono-Ranger</name>
@@ -1593,7 +1594,7 @@ Other Aliens you control get +2/+2.
         <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a spell or ability you control that requires another player to vote, choose, bid, or guess resolves, draw a card. You and each player that voted, chose, bid, or guessed create a treasure token. Each player who guessed correctly or voted for an option with the most votes or tied for the most votes draws a card.         </text>
+      <text>Whenever a spell or ability you control that requires another player to vote, choose, bid, or guess resolves, draw a card. You and each player that voted, chose, bid, or guessed create a Treasure token. Each player who guessed correctly or voted for an option with the most votes or tied for the most votes draws a card.         </text>
     </card>
     <card>
       <name>The Dagda and the Morrigan</name>
@@ -1683,7 +1684,7 @@ Non-Human Werewolves you control can’t transform.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature enters or transforms into Zhu Long, surveil 2.
-Magecraft — Whenever you cast or copy an instant or sorcery spell, surveil 1 and then draw a card.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, surveil 1, then draw a card.
 Threshold — 2BGU: Transform Zhu Long. Activate only if seven or more cards are in your graveyard.
 ---
 (Back): The True Form</text>
@@ -1821,7 +1822,7 @@ Absorb 1 (If a source would deal damage to this creature, prevent 1 of that dama
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of your end step, gain 1 life.
+      <text>At the beginning of your end step, you gain 1 life.
 Metalcraft — Gain 3 life instead if you control three or more artifacts.</text>
     </card>
     <card>
@@ -2135,7 +2136,7 @@ Whenever a creature enters under your control, you gain 1 life.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Creatures you control have hexproof and indestructible until end of turn.</text>
+      <text>Creatures you control gain hexproof and indestructible until end of turn.</text>
     </card>
     <card>
       <name>Scouring Mists</name>
@@ -2184,8 +2185,8 @@ Enchanted creature gets +0/+3.</text>
       <set rarity="uncommon">CSM</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -2303,7 +2304,7 @@ Magecraft — Whenever you cast or copy an instant or sorcery spell, mill a card
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more equipped creature you control deals combat damage to a player, draw a card.</text>
+      <text>Whenever one or more equipped creatures you control deal combat damage to a player, draw a card.</text>
     </card>
     <card>
       <name>Frosthounds</name>
@@ -2568,7 +2569,7 @@ When Fear of Imposters enters, counter target spell. Its controller manifests dr
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature blocks or becomes blocked, put this creature and each creature that is blocking is has become blocked by this creature on top of its owner’s libraries, then those players shuffle.</text>
+      <text>Whenever this creature blocks or becomes blocked, put this creature and each creature that is blocking or blocked by this creature on top of its owner’s libraries, then those players shuffle.</text>
     </card>
     <card>
       <name>Celestial Adjudicator</name>
@@ -2956,7 +2957,7 @@ Destroy target creature or planeswalker.</text>
       <tablerow>3</tablerow>
       <text>Choose one —
 • Return target creature card from your graveyard to your hand.
-• Return two target Outlaw creature cards from your graveyard to your hand. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)</text>
+• Return two target outlaw creature cards from your graveyard to your hand. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)</text>
     </card>
     <card>
       <name>Chainer&apos;s Edict</name>
@@ -3083,7 +3084,7 @@ Whenever a creature an opponent controls dies, you may pay 1B. If you do, return
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature dies, each player secretly chooses a number 0 or greater, then all players reveal those numbers. Reveal the highest revealed number of cards from the top of your library. Put each card named Wageling revealed this way onto the battlefield. Shuffle the rest back into your library. Each player who chose the lowest number revealed this way discards a card.
+      <text>When this creature dies, each opponent secretly chooses a number 0 or greater, then all opponents reveal those numbers. Reveal the highest revealed number of cards from the top of your library. Put each card named Wageling revealed this way onto the battlefield. Shuffle the rest back into your library. Each player who chose the lowest number revealed this way discards a card.
 A deck can have any number of cards named Wageling.</text>
     </card>
     <card>
@@ -3936,7 +3937,7 @@ Target creature you control fights up to one target creature you don’t control
       <tablerow>3</tablerow>
       <text>Choose one —
 • Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-• Proliferate (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
     </card>
     <card>
       <name>Natural Reclamation</name>
@@ -4027,7 +4028,7 @@ Amphibious Chupacabra gets +1/+0 as long as an opponent controls an Island.</tex
       </prop>
       <tablerow>2</tablerow>
       <text>This creature enters with eight -1/-1 counters on it.
-Whenever a -1/-1 counter is removed from this creature, gain 1 life.
+Whenever a -1/-1 counter is removed from this creature, you gain 1 life.
 At the beginning of your upkeep, remove a -1/-1 counter from this creature.</text>
     </card>
     <card>
@@ -4386,7 +4387,7 @@ Sacrifice this artifact: Draw a card.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature gets +1/+0 for each equipment attached to it.
+      <text>Equipped creature gets +1/+0 for each Equipment attached to it.
 Equip {1}</text>
     </card>
     <card>
@@ -4780,7 +4781,7 @@ Equip {1}</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature has skulk. (That creature can’t be blocked by creatures with greater power.)
+      <text>Equipped creature has skulk.  (It can’t be blocked by creatures with greater power.)
 Whenever equipped creature deals combat damage to a player, draw a card.
 Equip {2}</text>
     </card>
@@ -5018,7 +5019,7 @@ Whenever an opponent attacks you with two or more creatures, draws their second 
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Landfall — When a land you control enters, create a 1/1 blue Tentacle creature token.</text>
+Landfall — Whenever a land you control enters, create a 1/1 blue Tentacle creature token.</text>
     </card>
     <card>
       <name>Agent of Treachery</name>
@@ -5076,7 +5077,7 @@ Take an extra turn after this one.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-1U, {T}, Sacrifice this artifact: Any number of target creatures phase out.</text>
+{X}, {T}, Sacrifice this artifact: X target creatures phase out.</text>
     </card>
     <card>
       <name>Shatter the Timelines</name>
@@ -5188,7 +5189,7 @@ Return target creature card with mana value X from your graveyard to the battlef
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Whenever enchanted creature blocks or becomes blocked by a creature, that creature gains wither until end of turn.</text>
+Creatures blocking or blocked by enchanted creature have wither. (This deals damage to creatures in the form of -1/-1 counters.)</text>
     </card>
     <card>
       <name>Student of Nature&apos;s Fury</name>
@@ -5347,7 +5348,7 @@ Whenever exactly one creature attacks enchanted player, that creature’s contro
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You may discard any number of cards. Target creature gets +X/+X until end of turn, where X is the number of cards discarded this way. Then that creature fights another target creature.</text>
+      <text>Discard any number of cards. Target creature gets +X/+X until end of turn, where X is the number of cards discarded this way. Then that creature fights another target creature.</text>
     </card>
     <card>
       <name>Karate Robot</name>
@@ -5356,7 +5357,7 @@ Whenever exactly one creature attacks enchanted player, that creature’s contro
         <colors>G</colors>
         <manacost>4G</manacost>
         <cmc>5</cmc>
-        <type>Artifact Enchantment - Vehicle </type>
+        <type>Enchantment Artifact - Vehicle </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -5444,7 +5445,7 @@ Sacrifice a nontoken artifact: Put a charge counter on Omni-Cannon.
       </prop>
       <tablerow>1</tablerow>
       <text>Imprint — Whenever equipped creature dies, exile it.
-As long as a card imprinted onto The Legacy Ring has flying, equipped creature has flying. The same is true for menace, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, vigilance, skulk, and absorb.
+As long as a card exiled with The Legacy Ring has flying, equipped creature has flying. The same is true for menace, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, vigilance, skulk, and absorb.
 Equip {1}</text>
     </card>
     <card>
@@ -5458,7 +5459,7 @@ Equip {1}</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Delirium — Whenever another player discards a nonland card, you may cast it. As long as you have four or more card types among cards in your graveyard, you can spend mana as though it were mana of any color to cast these spells.</text>
+      <text>Delirium — Whenever another player discards a nonland card, you may cast it. If you have four or more card types among cards in your graveyard, you can spend mana as though it were mana of any color to cast that spell.</text>
     </card>
     <card>
       <name>Mirage Mirror</name>
@@ -5750,7 +5751,7 @@ Sacrifice this Aura: Choose new targets for target spell or ability that is targ
       <tablerow>1</tablerow>
       <text>Equipped creature gets +1/+0 and has shadow. (That creature can block or be blocked by only creatures with shadow.)
 Discard a card: The next time equipped creature would take damage this turn, prevent that damage.
-Equip—Discard a card</text>
+Equip—Discard a card.</text>
     </card>
     <card>
       <name>Concordat of Pain and Strife</name>
@@ -5849,7 +5850,7 @@ First strike</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn, if damage would be dealt to target creature, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented that way.</text>
+      <text>Prevent all damage that would be dealt to target creature this turn. Whenever damage is prevented this way, put that many +1/+1 counters on that creature.</text>
     </card>
     <card>
       <name>Berserk</name>
@@ -5934,7 +5935,7 @@ Equip {2}</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Instants and sorceries in your graveyard have harmonize. Their harmonize cost is equal to their mana cost. (You may cast them from your graveyard for their harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile it.)</text>
+      <text>Each instant and sorcery in your graveyard have harmonize. The harmonize cost is equal to their mana cost. (You may cast them from your graveyard for their harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile it.)</text>
     </card>
     <card>
       <name>Atlantean Font of Power</name>
