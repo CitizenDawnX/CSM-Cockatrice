@@ -611,8 +611,7 @@ Whenever you gain life, put a +1/+1 counter on another target creature you contr
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: S’sdari deals damage to any target equal to its power.
-Whenever a creature enters under an opponent’s control, untap S’sdari.
-Whenever a creature an opponent controls dies, you may transform S’sdari the Bloody.
+Whenever an Equipment becomes attached to S’sdari, if there are two or more Equipment attached to it, transform S’sdari.
 ---
 (Back): Fashion, Keeper of Accessories</text>
       <related attach="transform">Fashion, Keeper of Accessories</related>
@@ -628,7 +627,8 @@ Whenever a creature an opponent controls dies, you may transform S’sdari the B
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Equip costs you pay cost {1} less.
+      <text>When this creature transforms into Fashion, untap it.
+Equip costs you pay cost {1} less.
 Whenever Fashion attacks, draw a card for each Equipment attached to Fashion.
 ---
 (Front): S&apos;sdari the Bloody</text>
