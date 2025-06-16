@@ -3432,15 +3432,15 @@ Cycling {1} ({1}, Discard this card: Draw a card.)</text>
       <set rarity="common">CSM</set>
       <prop>
         <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>When this Equipment enters, attach it to target creature you control.
 Equipped creature has “{R}, {T}: This creature deals 2 damage to any target.”
-Equip 2R</text>
+Equip 1R</text>
     </card>
     <card>
       <name>Chain Lightning</name>
