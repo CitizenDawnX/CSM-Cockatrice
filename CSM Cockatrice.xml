@@ -534,7 +534,7 @@ Whenever one or more -1/-1 counters are put on a creature you don’t control, y
       </prop>
       <tablerow>2</tablerow>
       <text>When Kuranchu enters, put two +1/+1 counters on target creature you control.
-1G, {T}: Move up to three counters from target creature you control to another target creature you control.</text>
+1G, {T}: Move up to two counters from target creature you control to another target creature you control.</text>
     </card>
     <card>
       <name>Ray Manta, Paranoid Provisioner</name>
@@ -1176,7 +1176,7 @@ Whenever another outlaw enters under your control, The Operative deals 1 damage 
         <pt>*/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Deadline, Eco-Vandal enters or deals combat damage to a player, each player sacrifices a land.
+      <text>Whenever Deadline, Eco-Vandal enters or deals combat damage to a player, each player reveals cards from the top of their library until they reveal a land, then puts that land card in the graveyard, then puts the rest on the bottom of their library in a random order.
 Deadline’s power is equal to the number of lands in all graveyards.</text>
     </card>
     <card>
@@ -5431,7 +5431,7 @@ Whenever enchanted creature would die, shuffle it into its owner’s library ins
       <tablerow>1</tablerow>
       <text>{X}, {T}: Put X charge counters on Omni-Cannon.
 Sacrifice a nontoken artifact: Put a charge counter on Omni-Cannon.
-{T}, Remove X charge counters from Omni-Cannon: Destroy target permanent with mana value X or less.</text>
+{T}, Remove X charge counters from Omni-Cannon: Destroy target nonland permanent with mana value X or less.</text>
     </card>
     <card>
       <name>The Legacy Ring</name>
