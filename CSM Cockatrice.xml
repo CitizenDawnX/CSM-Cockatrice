@@ -200,7 +200,7 @@ Whenever Phrentat attacks, target player mills cards equal to Phrentat’s power
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1U, {T}: Choose up to X, where X is the number of Equipment attached to Cueball. You can choose the same more more than once—
+      <text>Whenever an Equipment becomes attached to Cueball, choose one that hasn’t been chosen this turn —
 • Tap target creature.
 • Scry 1.
 • Investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
@@ -247,7 +247,7 @@ Whenever Phrentat attacks, target player mills cards equal to Phrentat’s power
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>First strike
+      <text>First strike, bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
 {B}, {T}: Destroy target creature with a -1/-1 counter on it.</text>
     </card>
     <card>
@@ -873,8 +873,8 @@ UU, {T}: Tap target creature. Put a stun counter on it.</text>
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another creature dies, put a shield counter on Anubis. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-2B, {T}: Move a shield counter from Anubis to another target creature.
+      <text>Whenever another creature you control dies, put a shield counter on Anubis. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+{B}, {T}, Exile a creature card from your graveyard: Move a shield counter from Anubis to another target creature.
 When Anubis dies, return it to its owner’s hand at the beginning of the next end step.       </text>
     </card>
     <card>
@@ -1017,7 +1017,7 @@ Discard a card: Mainstay gains indestructible until end of turn.</text>
       <tablerow>2</tablerow>
       <text>Trample
 When Quetzalcoatl attacks, you may sacrifice a creature. If you do, you may exchange control target basic land you control and target basic land an opponent controls.
-Domain — Quetzalcoatl gets +2/+0 for each basic land type among lands you control.</text>
+Domain — Quetzalcoatl gets +2/+0 for each basic land type among lands you control.        </text>
     </card>
     <card>
       <name>Setback, Incurable Optimist</name>
@@ -1441,7 +1441,7 @@ Whenever Fanatic attacks, destroy up to one target artifact or enchantment with 
       <tablerow>2</tablerow>
       <text>Defender
 Whenever Akash’Flora blocks, put a lifelink counter on another target creature you control.
-Whenever you gain life for the first time each turn, put a +1/+1 counter on each modified creature you control. (Equipment, Auras you control, and counters are modifications.)</text>
+Whenever you gain life for the first time each turn, put a +1/+1 counter on each modified creature you control. (Equipment, Auras you control, and counters are modifications.)               </text>
     </card>
     <card>
       <name>Luminary, &quot;Reformed&quot; Inventor</name>
@@ -1457,7 +1457,7 @@ Whenever you gain life for the first time each turn, put a +1/+1 counter on each
       <tablerow>2</tablerow>
       <text>Whenever a nontoken artifact you control enters, you may draw a card. If you do, discard a card.
 Whenever an artifact you control is put into the graveyard from the battlefield, Luminary, “Reformed” Inventor deals 1 damage to any target.
-UR, {T}, Sacrifice an artifact: Return target artifact card with mana value equal to 1 plus the sacrificed artifact’s mana value to the battlefield.</text>
+UR, {T}, Sacrifice an artifact: Return target artifact card with mana value equal to 1 plus the sacrificed artifact’s mana value to the battlefield.   </text>
     </card>
     <card>
       <name>Tachyon, Quickest Woman Alive</name>
@@ -1669,7 +1669,7 @@ Non-Human Werewolves you control can’t transform.</text>
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>BG, {T}, Sacrifice a creature: Create X 1/1 black and green Insect creature tokens with melee, where X is the sacrificed creature’s power.  (Whenever they attack, they get +1/+1 until end of turn for each opponent you attacked this combat.)</text>
+      <text>2BG, {T}, Sacrifice a creature: Create X 1/1 black and green Insect creature tokens with myriad, where X is the sacrificed creature’s power.  (Whenever they attack, for each opponent other than defending player, you may create a token copy that’s tapped and attacking that player or a planeswalker they control. Exile the extra tokens at end of combat.)</text>
     </card>
     <card>
       <name>Zhu Long</name>
@@ -2311,14 +2311,15 @@ Magecraft — Whenever you cast or copy an instant or sorcery spell, mill a card
       <set rarity="common">CSM</set>
       <prop>
         <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Creature - Dog Horror </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1U, {T}: Tap target permanent. Put a stun counter on it.</text>
+      <text>Kicker 1U
+When this creature enters, tap target creature. If it’s kicker cost was paid, put a stun counter on that creature.</text>
     </card>
     <card>
       <name>Mechani-Accumulator</name>
@@ -2540,7 +2541,7 @@ You draw a card at the beginning of the next turn’s upkeep.</text>
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1U, {T}: Put a +1/+1 counter on target creature. That creature gains protection from green until end of turn. (That creature can’t be blocked, targeted, dealt damage, or enchanted by anything green.)</text>
+      <text>1U, {T}: Put a +1/+1 counter on target creature. That creature gains protection from green until end of turn. Activate only as a sorcery. (That creature can’t be blocked, targeted, dealt damage, or enchanted by anything green.)</text>
     </card>
     <card>
       <name>Fear of Imposters</name>
@@ -2555,7 +2556,7 @@ You draw a card at the beginning of the next turn’s upkeep.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Fear of Imposters enters, counter target spell. Its controller manifests dread. (That player looks at the top two cards of their library, then puts one onto the battlefield face down as a 2/2 creature and the other into their graveyard. If it’s a creature card, it can be turned face up any time for its mana cost.)</text>
+When Fear of Imposters enters, counter target spell. Its controller manifests dread. (That player looks at the top two cards of their library, then puts one onto the battlefield face down as a 2/2 creature and the other into their graveyard. If it’s a creature card, it can be turned face up any time for its mana cost.)           </text>
     </card>
     <card>
       <name>Portal Fiend</name>
@@ -3327,7 +3328,7 @@ Whenever this creature deals combat damage to a player, destroy target artifact 
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1R, {T}: This creature deals 2 damage to target creature.</text>
+      <text>When this creature enters, deal 2 damage to any target.</text>
     </card>
     <card>
       <name>Magma&apos;s Rage</name>
@@ -3555,7 +3556,7 @@ Whenever this creature attacks, it deals 1 damage to any target.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature enters with X +1/+1 counters on it.
-If damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it. When one or more counters are removed from this creature this way, it deals that much damage to any target.</text>
+If damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it. When one or more counters are removed from this creature this way, it deals that much damage to any target.             </text>
     </card>
     <card>
       <name>Fearless Gladiator</name>
@@ -3797,7 +3798,7 @@ At the beginning of your upkeep, this creature fights target creature an opponen
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1G, {T}: Skunk Ape fights target creature.</text>
+      <text>When this creature enters, it fights up to one target creature.</text>
     </card>
     <card>
       <name>Gene-Bound Bionaut</name>
@@ -3869,7 +3870,7 @@ At the beginning of your upkeep, this creature fights target creature an opponen
       <tablerow>2</tablerow>
       <text>Trample
 When Mongolian Death Worm dies, put three +1/+1 counters on target creature you control.
-Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)              </text>
     </card>
     <card>
       <name>Smell Fear</name>
@@ -5258,13 +5259,13 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
       <set rarity="rare">CSM</set>
       <prop>
         <colors>R</colors>
-        <manacost>1RR</manacost>
-        <cmc>3</cmc>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, shuffle X cards from your graveyard into your library.
+      <text>As an additional cost to cast this spell, exile X cards from your graveyard.
 Lightspeed Barrage deals X plus 1 damage to any target.</text>
     </card>
     <card>
@@ -5515,7 +5516,8 @@ Equip {1}
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W}.)
-Whenever you spend mana produced by this land to cast a Soldier or Construct creature spell, that creature enters with an additional +1/+1 counter.
+This land enters tapped.
+Whenever you spend mana produced by this land to cast a Soldier or Construct creature spell, that creature enters with an additional +1/+1 counter.                     
 ---
 (Front): Battalion Beam Cannon</text>
       <related attach="transform">Battalion Beam Cannon</related>
@@ -5548,6 +5550,7 @@ Return up to one target creature to its owner’s hand.
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U}.)
+This land enters tapped.
 When you spend mana produced by this land to cast an Alien or Shaman creature spell, that creature enters with an additional +1/+1 counter on it.
 ---
 (Front): Torrential Monsoon</text>
@@ -5581,6 +5584,7 @@ Creatures get -X/-X until end of turn, where X is the number of lands you contro
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B}.)
+This land enters tapped.
 When you spend mana produced by this land to cast a Rat or Scientist creature spell, that creature enters with an additional +1/+1 counter on it.
 ---
 (Front): Chemical Explosion</text>
@@ -5614,6 +5618,7 @@ Whenever you sacrifice an artifact, this enchantment deals 1 damage to any playe
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R}.)
+This land enters tapped.
 When you spend mana produced by this land to cast an Elemental or Scout creature spell, that creature enters with an additional +1/+1 counter on it.
 ---
 (Front): Fiery Crystallization</text>
@@ -5648,6 +5653,7 @@ Enrage — Whenever this creature is dealt damage, destroy target artifact you d
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {G}.)
+This land enters tapped.
 When you spend mana produced by this land to cast a Dinosaur or Spirit creature spell, that creature enters with an additional +1/+1 counter on it.
 ---
 (Front): Pterodactyl Thief</text>
