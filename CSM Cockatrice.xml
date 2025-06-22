@@ -841,10 +841,10 @@ Whenever Legacy attacks, untap target creature.</text>
         <cmc>4</cmc>
         <type>Legendary Creature - Advisor </type>
         <maintype>Creature</maintype>
-        <pt>0/5</pt>
+        <pt>0/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>2U, {T}: Destroy target creature. If that creature is destroyed this way, its controller reveals cards from the top of their library until they reveal a creature card that shares a creature type with the destroyed card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into their library.</text>
+      <text>2U, {T}: Destroy target creature. If that creature is destroyed this way, its controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into their library.</text>
     </card>
     <card>
       <name>Judge Mental</name>
