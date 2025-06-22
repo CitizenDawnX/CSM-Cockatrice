@@ -3597,8 +3597,9 @@ Enchanted creature has “{T}: This creature deals damage equal to its power to 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature dies, put a charge counter on Vitality Battery.
-Equipped creature gets +1/+0 for each charge counter on Vitality Battery and has “RR, Sacrifice Vitality Battery: This creature deals damage equal to the number of charge counters on Vitality Battery to any target.”
+      <text>Whenever a creature dies, put a charge counter on this Equipment.
+Remove a charge counter from this Equipment: Draw a card. Activate only once per turn.
+Equipped creature gets +2/+0 and has “RR, Sacrifice Vitality Battery: This creature deals damage equal to the number of charge counters on Vitality Battery to any target.”
 Equip 1R</text>
     </card>
     <card>
@@ -4045,7 +4046,7 @@ At the beginning of your upkeep, remove a -1/-1 counter from this creature.</tex
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever one or more -1/-1 counters are put on a creature you don’t control, put a +1/+1 counter on this creature.
-Enrage — Whenever this creature is dealt damage, put a -1/-1 on target creature.</text>
+Enrage — Whenever this creature is dealt damage, put a -1/-1 counter on target creature.</text>
     </card>
     <card>
       <name>Mutated Specimen</name>
