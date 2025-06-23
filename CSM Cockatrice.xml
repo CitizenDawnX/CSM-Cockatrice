@@ -3328,7 +3328,7 @@ Whenever this creature deals combat damage to a player, destroy target artifact 
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, deal 2 damage to any target.</text>
+      <text>When this creature enters, it deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Magma&apos;s Rage</name>
@@ -3609,7 +3609,7 @@ Equip 1R</text>
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Artifact - Equipment </type>
+        <type>Legendary Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -4092,18 +4092,18 @@ Enchanted creature has “Boast — {G}: Put a +1/+1 counter on this creature.�
 All creatures able to block enchanted creature do so.</text>
     </card>
     <card>
-      <name>Terramorph</name>
+      <name>Enter the Unknown</name>
       <set rarity="uncommon">CSM</set>
       <prop>
         <colors>G</colors>
-        <manacost>3G</manacost>
-        <cmc>4</cmc>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for a basic land card, put it onto the battlefield, then shuffle.
-Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+      <text>Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+You may play an additional land this turn.</text>
     </card>
     <card>
       <name>Hunter</name>
@@ -4482,11 +4482,12 @@ Equip {2}</text>
         <colors></colors>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Artifact</type>
+        <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Pay 1 life: Add {C}.</text>
+      <text>Imprint — When this artifact enters, you may exile target card from a graveyard.
+{T}, Pay 1 life: Add {C} or one mana of any of the exiled card’s colors.</text>
     </card>
     <card>
       <name>Concordant Helm</name>
@@ -4863,12 +4864,12 @@ Shackle {2} ({2}: Attach to target creature you don’t control. Shackle only as
         <colors></colors>
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>Artifact</type>
+        <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Add CC.
-{2}, {T}, Sacrifice this artifact: Draw two cards.</text>
+{2}, {T}, Sacrifice this artifact: Tap target creature. Put a stun counter on it. Draw a card.</text>
     </card>
     <card>
       <name>Stunt Double</name>
@@ -5851,8 +5852,8 @@ First strike</text>
       <set rarity="mythic">CSM</set>
       <prop>
         <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
