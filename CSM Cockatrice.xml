@@ -14,11 +14,11 @@
       <set rarity="uncommon">CSM</set>
       <prop>
         <colors>WG</colors>
-        <manacost>1GW</manacost>
-        <cmc>3</cmc>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Human Elemental Doctor </type>
         <maintype>Creature</maintype>
-        <pt>2/5</pt>
+        <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -1016,7 +1016,7 @@ Discard a card: Mainstay gains indestructible until end of turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When Quetzalcoatl attacks, you may sacrifice a creature. If you do, you may exchange control target basic land you control and target basic land an opponent controls.
+When Quetzalcoatl attacks, you may sacrifice a creature. If you do, you may exchange control of target basic land you control and target basic land an opponent controls.
 Domain — Quetzalcoatl gets +2/+0 for each basic land type among lands you control.        </text>
     </card>
     <card>
@@ -3071,7 +3071,7 @@ Whenever a creature an opponent controls dies, you may pay 1B. If you do, return
         <pt>5/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature dies, put a -1/-1 counter on up to four target creatures.</text>
+      <text>When this creature dies, put a -1/-1 counter on each of up to four target creatures.</text>
     </card>
     <card>
       <name>Wageling</name>
@@ -4247,7 +4247,7 @@ When this creature dies, return another target artifact card from your graveyard
         <pt>0/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{T}: This creature deals 1 damage to any target.
+      <text>{T}: This creature deals 1 damage to each opponent.
 Whenever you cast an artifact spell, untap this creature.</text>
     </card>
     <card>
