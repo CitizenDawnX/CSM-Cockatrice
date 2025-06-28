@@ -25,18 +25,19 @@
 Whenever Doctor Medico is dealt damage, you gain that much life.</text>
     </card>
     <card>
-      <name>Bloogo, the Last Ahpan</name>
+      <name>Corporal Carter, Mechanized</name>
       <set rarity="uncommon">CSM</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
         <cmc>4</cmc>
-        <type>Legendary Creature - Alien Rhino </type>
+        <type>Legendary Creature - Human Soldier </type>
         <maintype>Creature</maintype>
-        <pt>0/6</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>All damage that would be dealt to you is dealt to Bloogo instead.</text>
+      <text>Damage dealt by Soldiers you control can’t be prevented.
+Metalcraft — As long as you control three or more artifacts, Corporal Carter has provoke. (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)</text>
     </card>
     <card>
       <name>Chip, the Flying Ace</name>
@@ -45,7 +46,7 @@ Whenever Doctor Medico is dealt damage, you gain that much life.</text>
         <colors>W</colors>
         <manacost>3W</manacost>
         <cmc>4</cmc>
-        <type>Legendary Creature - Human Pilot </type>
+        <type>Legendary Creature - Human Pirate Pilot </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
@@ -69,19 +70,19 @@ Whenever Chip deals combat damage to a player, exile target card from that playe
       <text>Parley — {W}, {T}: Each player reveals the top card of their library. Put a +1/+1 counter on up to X other creatures, where X is the number of nonland cards revealed this way. Then each player draws a card.</text>
     </card>
     <card>
-      <name>Eduardo Lopez</name>
+      <name>Xander Groovitation, Casa-Nova</name>
       <set rarity="uncommon">CSM</set>
       <prop>
         <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Human Advisor </type>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Alien Bard </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>0/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Morbid — At the beginning of each end step, if a creature died this turn, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)
-Whenever Eduardo Lopez dies, investigate.</text>
+      <text>Whenever Xander Groovitation attacks, tap target creature.
+Whenever Xander Groovitation attacks and isn’t blocked, you and the defending player each draw a card and create a Treasure token.</text>
     </card>
     <card>
       <name>General Armstrong</name>
