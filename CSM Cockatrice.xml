@@ -397,7 +397,7 @@ You may cast artifact spells from the top of your library.</text>
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Enrage — Whenever Megan Lee, Rockstar is dealt damage, create a colorless Equipment artifact token named Rock with “Equipped creature has ‘1, {T}, Sacrifice Rock: This creature deals 2 damage to any target.” and equip {1} and attach it to Megan Lee.
+      <text>Enrage — Whenever Megan Lee, Rockstar is dealt damage, create a colorless Equipment artifact token named Rock with “Equipped creature has ‘{1}, {T}, Sacrifice Rock: This creature deals 2 damage to any target.” and equip {1} and attach it to Megan Lee.
 Sacrifice an equipment named Rock attached to Megan Lee: Megan Lee gets +1/+1 until end of turn.</text>
     </card>
     <card>
@@ -1048,7 +1048,7 @@ Remove a luck counter from this creature: The next spell you cast this turn has 
         <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Each nonlegendary nonhuman creature card in your hand has mutate. Its mutate cost is equal to its mana cost plus {1}. (If you cast a spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</text>
+      <text>Each nonlegendary nonhuman creature card in your hand has mutate. Its mutate cost is equal to its mana cost plus GU. (If you cast a spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</text>
     </card>
     <card>
       <name>The Harpy</name>
@@ -1639,7 +1639,7 @@ Psylence has the text boxes of all creatures with gray counters on them. Creatur
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever an artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter or a shield counter on target creature you control.
+      <text>Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter or a shield counter on target creature you control.
 {T}, Sacrifice an artifact with mana value X: Select up to X different kinds of counters on permanents you control. Put a counter of each of those kinds on target permanent.          </text>
     </card>
     <card>
@@ -3301,7 +3301,7 @@ Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking 
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Whenever this creature deals combat damage to a player, destroy target artifact that player controls. If an artifact was destroyed this way, create a treasure token.</text>
+Whenever this creature deals combat damage to a player, destroy target artifact that player controls. If an artifact was destroyed this way, create a Treasure token.</text>
     </card>
     <card>
       <name>FILTER Bomb Specialist</name>
