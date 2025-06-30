@@ -169,7 +169,7 @@ Morbid — At the beginning of each end step, if a creature died this turn, inve
         <cmc>3</cmc>
         <type>Legendary Creature - Alien Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -667,17 +667,18 @@ Whenever a creature with a -1/-1 counter on it dies, put a +1/+1 counter on Spit
     </card>
     <card>
       <name>Absolute Zero, Frostwielder</name>
-      <set rarity="uncommon">CSM</set>
+      <set rarity="rare">CSM</set>
       <prop>
         <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Absolute Zero gets +0/+1 for each Equipment attached to it.
+      <text>2/R2/R: Absolute Zero deals 1 damage to itself.
+Absolute Zero gets +0/+1 for each Equipment attached to it.
 Whenever Absolute Zero is dealt noncombat damage, Absolute Zero deals that much damage to any target. If a permanent was dealt damage this way, tap that permanent and put a stun counter on it.</text>
     </card>
     <card>
@@ -907,7 +908,7 @@ Whenever a creature dealt damage by Leviathan this turn dies, put a flood counte
       </prop>
       <tablerow>2</tablerow>
       <text>Other creatures you control have ward {X}, where X is the number of creature types it has that are unique among creatures you control.
-At the beginning of your upkeep, scry X, where X is the number of creatures you control with ward.</text>
+At the beginning of your end step, scry X, where X is the number of creatures you control with ward.</text>
     </card>
     <card>
       <name>Owen Charles, Quiet Time</name>
@@ -991,9 +992,9 @@ Discard a card: Mainstay gains indestructible until end of turn.</text>
       <name>Sky-Scraper, Proportionist</name>
       <set rarity="rare">CSM</set>
       <prop>
-        <colors>UR</colors>
-        <manacost>3UR</manacost>
-        <cmc>5</cmc>
+        <colors>URG</colors>
+        <manacost>1GUR</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Alien Rebel </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
@@ -1841,15 +1842,15 @@ Metalcraft — Gain 3 life instead if you control three or more artifacts.</text
       <text>Vigilance</text>
     </card>
     <card>
-      <name>Maerynian Maraweaver</name>
+      <name>Maera-Weaver</name>
       <set rarity="common">CSM</set>
       <prop>
         <colors>W</colors>
-        <manacost>3W</manacost>
+        <manacost>2WW</manacost>
         <cmc>4</cmc>
         <type>Creature - Alien Shaman </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -2020,7 +2021,7 @@ Flashback—1W, Pay 3 life (You may cast this card from your graveyard for its f
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever an Equipment becomes attached to equipped creature, gain X life, where X is the number of Equipment attached to equipped creature.
+      <text>Whenever an Equipment becomes attached to equipped creature, gain X life, where X is the number of Equipment attached to equipped creature. This ability triggers only once each turn.
 Equip {W}</text>
     </card>
     <card>
@@ -4985,7 +4986,7 @@ At the beginning of your upkeep, if enchanted creature does not have a shield co
     </card>
     <card>
       <name>Smothering Tithe</name>
-      <set rarity="rare">CSM</set>
+      <set rarity="mythic">CSM</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -5679,7 +5680,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Reactive Plating Subroutine</name>
-      <set rarity="mythic">CSM</set>
+      <set rarity="rare">CSM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -5689,7 +5690,7 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant permanent
-Whenever a spell or ability that targeted enchanted permanent resolves, enchanted permanent gains hexproof from each of that source’s colors until the next time this ability triggers or this Aura leaves the battlefield.</text>
+As Reactive Plating Subroutine enters, choose a color. Whenever a spell or ability with a source that is one or more colors that targets enchanted permanent resolves, choose a color of that source. Enchanted permanent has hexproof from the last chosen color.</text>
     </card>
     <card>
       <name>Inspiring Presence</name>
@@ -5959,6 +5960,20 @@ Equip {2}</text>
       <tablerow>1</tablerow>
       <text>Discard a card: Sacrifice Atlantean Font of Power.
 At the beginning of each player’s end step, that player reveals the top card of their library. If a permanent card is revealed this way, that player puts it onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Busybody, Augmented Analyst</name>
+      <set rarity="uncommon">CSM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact Creature - Human Demon </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, surveil X, where X is the number of Equipment attached to Busybody. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
     </card>
 
     <!-->Tokens</-->
