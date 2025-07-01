@@ -215,10 +215,10 @@ Whenever Phrentat attacks, target player mills cards equal to Phrentat’s power
         <cmc>3</cmc>
         <type>Legendary Creature - Zombie Cleric </type>
         <maintype>Creature</maintype>
-        <pt>1/4</pt>
+        <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+      <text>Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)
 {1}: This creature gets +1/-1 or -1/+1 until end of turn.
 {W}, {T}, Sacrifice Martyr: The next creature spell you cast this turn costs {3} less.</text>
     </card>
@@ -922,7 +922,7 @@ At the beginning of your end step, scry X, where X is the number of creatures yo
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+      <text>Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)
 1GG, {T}: Target creature loses all abilities until end of turn.</text>
     </card>
     <card>
@@ -3846,7 +3846,7 @@ At the beginning of your upkeep, this creature fights target creature an opponen
       <text>Enrage — Whenever this creature is dealt damage, create a Treasure token.</text>
     </card>
     <card>
-      <name>Colossal Dreadmaw</name>
+      <name>Cornered Ankylosaurus</name>
       <set rarity="common">CSM</set>
       <prop>
         <colors>G</colors>
@@ -3854,10 +3854,10 @@ At the beginning of your upkeep, this creature fights target creature an opponen
         <cmc>6</cmc>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
-        <pt>6/6</pt>
+        <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample</text>
+      <text>Vigilance, reach, absorb 1 (If a source would deal damage to this creature, prevent 1 of that damage.)</text>
     </card>
     <card>
       <name>Mongolian Death Worm</name>
@@ -4076,7 +4076,7 @@ Enrage — Whenever this creature is dealt damage, put a -1/-1 counter on target
         <pt>7/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Enrage — When this creature is dealt damage, you gain 3 life.</text>
+      <text>Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)</text>
     </card>
     <card>
       <name>Taunting Boast</name>
@@ -4210,7 +4210,7 @@ When this creature enters, draw a card.</text>
     </card>
     <card>
       <name>Disposable Defender</name>
-      <set rarity="common">CSM</set>
+      <set rarity="uncommon">CSM</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -4605,7 +4605,7 @@ When this land enters, sacrifice it unless you pay {1}.
     </card>
     <card>
       <name>Repair Drone</name>
-      <set rarity="uncommon">CSM</set>
+      <set rarity="common">CSM</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -4616,7 +4616,7 @@ When this land enters, sacrifice it unless you pay {1}.
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature dies, return another target artifact card from your graveyard to your hand.</text>
+When this creature dies, you gain 3 life.</text>
     </card>
     <card>
       <name>Repair Nanites</name>
@@ -5384,31 +5384,33 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
       <text>Permanents you control gain hexproof and indestructible until end of turn.</text>
     </card>
     <card>
-      <name>Heartbeat of Spring</name>
+      <name>Song of the Dryads</name>
       <set rarity="rare">CSM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
         <cmc>3</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever a player taps a land for mana, that player adds one mana of any type that land produced.</text>
-    </card>
-    <card>
-      <name>&quot;No Executions&quot;</name>
-      <set rarity="rare">CSM</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Enchant creature
-Whenever enchanted creature would die, shuffle it into its owner’s library instead.</text>
+      <text>Enchant permanent
+Enchanted permanent is a colorless Forest land.</text>
+    </card>
+    <card>
+      <name>An Offer of Prosperity</name>
+      <set rarity="rare">CSM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+Whenever you or enchanted opponent taps a land for mana, that player adds one mana of any type that land produced.
+Whenever a creature enchanted opponent controls attacks you or a permanent you control, sacrifice An Offer of Prosperity.</text>
     </card>
     <card>
       <name>Terralunar Translocator</name>
