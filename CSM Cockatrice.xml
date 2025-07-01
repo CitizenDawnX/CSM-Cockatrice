@@ -1130,9 +1130,8 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>As long as Tempest is untapped, creatures you control have +0/+2.
-As long as Tempest is tapped, creatures you control get +2/+0.
-{1}, {T} or {1}, {Q}: Tempest deals 3 damage to target attacking or blocking creature.</text>
+      <text>Whenever an enchantment you control enters or leaves the battlefield, draw a card.
+GWU, {T}, Sacrifice an enchantment: Tempest deals 3 damage to target attacking or blocking creature.</text>
     </card>
     <card>
       <name>America&apos;s Finest Legacy</name>
