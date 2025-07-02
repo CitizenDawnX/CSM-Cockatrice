@@ -3757,7 +3757,7 @@ Enrage — Put a +1/+1 counter on this creature.</text>
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Creatures you control enter with an additional +1/+1 counter.</text>
+      <text>Other creatures you control enter with an additional +1/+1 counter.</text>
     </card>
     <card>
       <name>Grazing Whiptail</name>
