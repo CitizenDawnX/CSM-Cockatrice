@@ -724,7 +724,7 @@ Whenever you cast a spell from exile, create a Treasure token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike, haste
-Stuntman attacks each combat if able
+Stuntman is goaded.
 At the beginning of each player’s upkeep, that player gains control of Stuntman and untaps it.
 Boast — {R}: Exile the top card of your library. Until the end of your next turn, you can play it. Stuntman’s owner may activate this ability. (Activate only if this creature attacked this turn and only once each turn.)</text>
     </card>
@@ -1458,7 +1458,7 @@ Whenever you gain life for the first time each turn, put a +1/+1 counter on each
       <tablerow>2</tablerow>
       <text>Whenever a nontoken artifact you control enters, you may draw a card. If you do, discard a card.
 Whenever an artifact you control is put into the graveyard from the battlefield, Luminary, “Reformed” Inventor deals 1 damage to any target.
-UR, {T}, Sacrifice an artifact: Return target artifact card with mana value equal to 1 plus the sacrificed artifact’s mana value to the battlefield.   </text>
+UR, {T}, Sacrifice an artifact: Return target artifact card with mana value equal to 1 plus the sacrificed artifact’s mana value from your graveyard to the battlefield.   </text>
     </card>
     <card>
       <name>Tachyon, Quickest Woman Alive</name>
@@ -1893,7 +1893,7 @@ Other artifact creatures you control get +1/+0.</text>
         <cmc>6</cmc>
         <type>Creature - Alien Warrior </type>
         <maintype>Creature</maintype>
-        <pt>2/7</pt>
+        <pt>3/7</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -3354,7 +3354,7 @@ Whenever this creature deals combat damage to a player, destroy target artifact 
         <cmc>6</cmc>
         <type>Creature - Alien Warrior </type>
         <maintype>Creature</maintype>
-        <pt>6/6</pt>
+        <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
@@ -3441,7 +3441,7 @@ Cycling {1} ({1}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this Equipment enters, attach it to target creature you control.
-Equipped creature has “{R}, {T}: This creature deals 2 damage to any target.”
+Equipped creature has “1{R}, {T}: This creature deals 2 damage to any target.”
 Equip 1R</text>
     </card>
     <card>
@@ -3853,7 +3853,7 @@ At the beginning of your upkeep, this creature fights target creature an opponen
         <cmc>6</cmc>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
-        <pt>5/4</pt>
+        <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, reach, absorb 1 (If a source would deal damage to this creature, prevent 1 of that damage.)</text>
@@ -4525,12 +4525,12 @@ Equip {2}</text>
         <colors></colors>
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>Artifact - Equipment </type>
+        <type>Legendary Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters or leaves the battlefield, it deals 2 damage to any target.
-Equipped creature gets +2/+2.
+Equipped creature gets +2/+2 and has menace.
 Equip {3}</text>
     </card>
     <card>
@@ -4824,7 +4824,7 @@ At the beginning of your upkeep, sacrifice this artifact. When you do, target cr
         <colors></colors>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Artifact - Equipment </type>
+        <type>Legendary Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -5440,19 +5440,19 @@ Sacrifice a nontoken artifact: Put a charge counter on Omni-Cannon.
 {T}, Remove X charge counters from Omni-Cannon: Destroy target nonland permanent with mana value X or less.</text>
     </card>
     <card>
-      <name>The Legacy Ring</name>
+      <name>Quietus Spike</name>
       <set rarity="rare">CSM</set>
       <prop>
         <colors></colors>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
-        <type>Legendary Artifact - Equipment </type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Imprint — Whenever equipped creature dies, exile it.
-As long as a card exiled with The Legacy Ring has flying, equipped creature has flying. The same is true for menace, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, vigilance, skulk, and absorb.
-Equip {1}</text>
+      <text>Equipped creature has deathtouch.
+Whenever equipped creature deals combat damage to a player, that player loses half their life, rounded up.
+Equip {3}</text>
     </card>
     <card>
       <name>Orb of Delirium</name>
