@@ -1417,8 +1417,8 @@ Pay 4 life: Until end of turn, Lifeline gains your choice of first strike, menac
       <set rarity="mythic">CSM</set>
       <prop>
         <colors>WR</colors>
-        <manacost>3RW</manacost>
-        <cmc>5</cmc>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Angel Warrior </type>
         <maintype>Creature</maintype>
         <pt>*/4</pt>
