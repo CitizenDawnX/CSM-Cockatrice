@@ -277,9 +277,9 @@ Whenever Phrentat attacks, target player mills cards equal to Phrentat’s power
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another creature dies, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+      <text>Whenever another creature dies, create a Blood token. This ability triggers only once each turn. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
 Vampires you control have ward {X}, where X is the number of Blood tokens you control.
-{T}: Blood Countess Bathory deals 1 damage to target creature. Put a blood counter on that creature. It becomes a Vampire in addition to its other types.</text>
+{T}: Blood Countess Bathory deals 1 damage to target creature. Put a blood counter on that creature. It becomes a Vampire in addition to its other types.           </text>
     </card>
     <card>
       <name>Ammit, Eater of Hearts</name>
@@ -458,7 +458,7 @@ Creatures your opponents control with -1/-1 counters must block if able.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>1G: Choose one. Until end of turn, The Naturalist has that base power and toughness, becomes that creature type, and gains that ability.
-• 3/3 Elk with ward {2}.
+• 3/3 Elk with hexproof.
 • 6/2 Crocodile with trample.
 • 2/4 Rhino with absorb 1. (If a source would deal damage to this creature, prevent 1 of that damage.)</text>
     </card>
@@ -937,7 +937,8 @@ At the beginning of your end step, scry X, where X is the number of creatures yo
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>XW/U, {T}, Sacrifice an artifact with mana value X: Reveal cards from the top of your library until you reveal an artifact creature with mana value X, put it onto the battlefield tapped, then shuffle.</text>
+      <text>Golems you control get +1/+1.
+2WU, {T}, Sacrifice an artifact: Create a token copy of target creature, except it’s a 3/3 Golem artifact creature in addition to its other types.</text>
     </card>
     <card>
       <name>The Wraith</name>
@@ -1564,23 +1565,9 @@ Creatures you control have afflict 1. (Whenever this creature becomes blocked, d
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Horrors you control have protection from their colors.
-Other Aliens you control get +2/+2.
-1R, {T}: Grand Warlord Voss deals 2 damage to each of up to two targets.</text>
-    </card>
-    <card>
-      <name>Wager Master</name>
-      <set rarity="mythic">CSM</set>
-      <prop>
-        <colors>WUBR</colors>
-        <manacost>WUBR</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Avatar </type>
-        <maintype>Creature</maintype>
-        <pt>2/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever a spell or ability you control that requires another player to vote, choose, bid, or guess resolves, draw a card. You and each player that voted, chose, bid, or guessed create a Treasure token. Each player who guessed correctly or voted for an option with the most votes or tied for the most votes draws a card.         </text>
+      <text>Horrors and Soldiers you control get +2/+2.
+UB, {T}, Sacrifice a creature: Draw two cards.
+RW, {T}: Grand Warlord Voss deals 2 damage to each of up to two targets.    </text>
     </card>
     <card>
       <name>The Dagda and the Morrigan</name>
@@ -1624,7 +1611,7 @@ Psylence has the text boxes of all creatures with gray counters on them. Creatur
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter or a shield counter on target creature you control.
+      <text>Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter or a shield counter on target creature you control. This ability triggers only once per turn.
 {T}, Sacrifice an artifact with mana value X: Select up to X different kinds of counters on permanents you control. Put a counter of each of those kinds on target permanent.          </text>
     </card>
     <card>
@@ -2320,7 +2307,7 @@ When this creature enters, tap target creature. If it’s kicker cost was paid, 
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Mechani-Accumulator attacks, surveil 1.
-Whenever an artifact card enters your graveyard from anywhere, put a +1/+1 counter on target artifact creature.            </text>
+Whenever an artifact card is put into your graveyard from anywhere, put a +1/+1 counter on target artifact creature.            </text>
     </card>
     <card>
       <name>Devouring River</name>
@@ -3740,7 +3727,7 @@ Enrage — Whenever this creature is dealt damage, put a +1/+1 counter on this c
         <cmc>3</cmc>
         <type>Creature - Treefolk Dryad Advisor </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Other creatures you control enter with an additional +1/+1 counter.</text>
@@ -5961,6 +5948,55 @@ At the beginning of each player’s end step, that player reveals the top card o
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your end step, surveil X, where X is the number of Equipment attached to Busybody. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>xxtz&apos;Hulissh, Scion of Hul</name>
+      <set rarity="mythic">CSM</set>
+      <prop>
+        <colors>WBRG</colors>
+        <manacost>BB/RB/GW/B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+xxtz’Hulissh can’t attack unless defending player owns four or more cards in exile.
+xxtz’Hulissh can only block creatures whose controllers own four or more cards in exile.
+Creatures you control have ingest.  (Whenever they deal combat damage to a player, that player exiles the top card of their library.)</text>
+    </card>
+    <card>
+      <name>Wellspring, Entity of Progress</name>
+      <set rarity="mythic">CSM</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>RGWU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Discard a card: Search your library for a basic land card and put it into your hand. Any player may activate this ability.
+Sacrifice a land: Wellspring deals 3 damage to target opponent. Any player may activate this ability.</text>
+    </card>
+    <card>
+      <name>Biomancer, the Fleshfather</name>
+      <set rarity="mythic">CSM</set>
+      <prop>
+        <colors>WUBG</colors>
+        <manacost>GWUB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The “legend rule” doesn’t apply to creatures you control.
+You may look at the top card of your library any time.
+{2}: Exile the top card of your library. If the exiled card is a creature card, it becomes plotted. Activate only once per turn. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever you cast a creature spell from exile, you may have it enter as a copy of any creature on the battlefield with equal or lesser mana value.</text>
     </card>
 
     <!-->Tokens</-->

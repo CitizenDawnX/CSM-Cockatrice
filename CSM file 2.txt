@@ -4,7 +4,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Elemental Doctor ",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Doctor Medico, M.D..png"
 			}
@@ -354,7 +354,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "317",
+			"collector_number": "318",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Ray Manta, Paranoid Provisioner.png"
 			}
@@ -364,7 +364,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Highbrow, Expanded Mind.png"
 			}
@@ -374,7 +374,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Human Rogue ",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Hayes Brothers.png"
 			}
@@ -394,7 +394,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "324",
+			"collector_number": "325",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/S'sdari the Bloody_front.png"
 			},
@@ -411,7 +411,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Monk ",
-			"collector_number": "322",
+			"collector_number": "323",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Shuen Zhang.png"
 			}
@@ -471,7 +471,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Soldier ",
-			"collector_number": "320",
+			"collector_number": "321",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Sergeant Steel.png"
 			}
@@ -481,7 +481,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "301",
+			"collector_number": "302",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Idealist.png"
 			}
@@ -491,7 +491,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Zombie Scientist ",
-			"collector_number": "310",
+			"collector_number": "311",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Necrosis, Coalesced Blight.png"
 			}
@@ -501,7 +501,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "304",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/K.N.Y.F.E..png"
 			}
@@ -601,7 +601,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "328",
+			"collector_number": "329",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Unity, Golemshaper.png"
 			}
@@ -611,7 +611,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Human Rogue Detective ",
-			"collector_number": "330",
+			"collector_number": "331",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Wraith.png"
 			}
@@ -631,7 +631,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "307",
+			"collector_number": "308",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Mainstay, Southwest Slugger.png"
 			}
@@ -641,7 +641,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Legendary Creature — Alien Rebel ",
-			"collector_number": "323",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Sky-Scraper, Proportionist.png"
 			}
@@ -651,7 +651,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Avatar ",
-			"collector_number": "316",
+			"collector_number": "317",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Quetzalcoatl, Lord of Realms.png"
 			}
@@ -661,7 +661,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "321",
+			"collector_number": "322",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Setback, Incurable Optimist.png"
 			}
@@ -671,7 +671,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Alien Scientist ",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Gene-Doctor Kronz.png"
 			}
@@ -681,7 +681,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Harpy.png"
 			}
@@ -691,7 +691,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Creature — Human Berserker ",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Bugbear, Bloody Brawler.png"
 			}
@@ -701,7 +701,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human Werewolf ",
-			"collector_number": "325",
+			"collector_number": "326",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Tabitha Taft, Reporter_front.png"
 			},
@@ -718,7 +718,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Alien Shaman ",
-			"collector_number": "327",
+			"collector_number": "328",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Tempest, Ambassador of Storms.png"
 			}
@@ -738,7 +738,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Assassin ",
-			"collector_number": "313",
+			"collector_number": "314",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Operative.png"
 			}
@@ -748,7 +748,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Alien Druid ",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Deadline, Eco-Vandal.png"
 			}
@@ -768,7 +768,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Legendary Creature — Demon Noble ",
-			"collector_number": "308",
+			"collector_number": "309",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Mannock, the Greedy.png"
 			}
@@ -808,7 +808,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Artifact Creature — Robot ",
-			"collector_number": "312",
+			"collector_number": "313",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Omnitron-X.png"
 			}
@@ -818,7 +818,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "331",
+			"collector_number": "332",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Writhe, Unsettling Inventor.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{R}",
 			"type": "Legendary Creature — Human Rogue ",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Friction, Reckless Speedster.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "302",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Infinitor, Tormented Creator.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "314",
+			"collector_number": "315",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Proletariat, People's Champion.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "311",
+			"collector_number": "312",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/NightMist, Master of Magic.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Alien Wizard Warrior ",
-			"collector_number": "305",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Lifeline, Repentant Ravager.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior ",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Fanatic, Angel of Judgement.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "306",
+			"collector_number": "307",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Luminary, Reformed Inventor.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "326",
+			"collector_number": "327",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Tachyon, Quickest Woman Alive.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Human Shaman ",
-			"collector_number": "319",
+			"collector_number": "320",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Scholar.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W/B}{R}",
 			"type": "Legendary Creature — Alien Mercenary ",
-			"collector_number": "333",
+			"collector_number": "334",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Greazer Clutch.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "318",
+			"collector_number": "319",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Savage Haka.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Enchantment Creature — God ",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Gloomweaver.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{B}{R}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "303",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Iron Legacy.png"
 			}
@@ -985,19 +985,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Legendary Creature — Alien Warrior ",
-			"collector_number": "297",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Grand Warlord Voss.png"
-			}
-		},
-		{
-			"name": "Wager Master",
-			"rarity": "mythic",
-			"mana_cost": "{W}{U}{B}{R}",
-			"type": "Legendary Creature — Avatar ",
-			"collector_number": "329",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Wager Master.png"
 			}
 		},
 		{
@@ -1005,7 +995,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}{G}",
 			"type": "Legendary Creature — Faerie Noble ",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Dagda and the Morrigan.png"
 			}
@@ -1015,7 +1005,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "315",
+			"collector_number": "316",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Psylence, Gray Conduit.png"
 			}
@@ -1025,7 +1015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Human Rigger ",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Chokepoint, Metal Whisperer.png"
 			}
@@ -1045,7 +1035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Insect Demon ",
-			"collector_number": "309",
+			"collector_number": "310",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Myriad, Skittering Swarm.png"
 			}
@@ -1055,7 +1045,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "332",
+			"collector_number": "333",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Zhu Long_front.png"
 			},
@@ -2790,7 +2780,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Insect Golem ",
-			"collector_number": "344",
+			"collector_number": "346",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Bee Bot.png"
 			}
@@ -2800,7 +2790,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Thopter ",
-			"collector_number": "372",
+			"collector_number": "374",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Skyscanner.png"
 			}
@@ -2810,7 +2800,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Robot Drone ",
-			"collector_number": "337",
+			"collector_number": "339",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Assault Drone.png"
 			}
@@ -2820,7 +2810,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "350",
+			"collector_number": "352",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Disposable Defender.png"
 			}
@@ -2830,7 +2820,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "342",
+			"collector_number": "344",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Backlash Generator.png"
 			}
@@ -2840,7 +2830,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "363",
+			"collector_number": "365",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Powered Remote Turret.png"
 			}
@@ -2850,7 +2840,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Dinosaur Golem ",
-			"collector_number": "366",
+			"collector_number": "368",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Raptor Bot.png"
 			}
@@ -2860,7 +2850,7 @@
 			"rarity": "common",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Construct Soldier ",
-			"collector_number": "345",
+			"collector_number": "347",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Bionic Patroller.png"
 			}
@@ -2870,7 +2860,7 @@
 			"rarity": "common",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "383",
+			"collector_number": "385",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Time-Lost Smoke Belcher.png"
 			}
@@ -2880,7 +2870,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "386",
+			"collector_number": "388",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Veteran's Powerblade.png"
 			}
@@ -2890,7 +2880,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "364",
+			"collector_number": "366",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Protomatter Converter.png"
 			}
@@ -2900,7 +2890,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "349",
+			"collector_number": "351",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Cortex Hyperstimulator.png"
 			}
@@ -2910,7 +2900,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "347",
+			"collector_number": "349",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Commander's Sphere.png"
 			}
@@ -2920,7 +2910,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "346",
+			"collector_number": "348",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Charcoal Diamond.png"
 			}
@@ -2930,7 +2920,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "353",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Fire Diamond.png"
 			}
@@ -2940,7 +2930,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "385",
+			"collector_number": "387",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Utility Belt.png"
 			}
@@ -2950,7 +2940,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "374",
+			"collector_number": "376",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Supply Crate.png"
 			}
@@ -2960,7 +2950,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "355",
+			"collector_number": "357",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Marble Diamond.png"
 			}
@@ -2970,7 +2960,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "357",
+			"collector_number": "359",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Moss Diamond.png"
 			}
@@ -2980,7 +2970,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "377",
+			"collector_number": "379",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Taiaha.png"
 			}
@@ -2990,7 +2980,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "388",
+			"collector_number": "390",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Wayfarer's Bauble.png"
 			}
@@ -3000,7 +2990,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "371",
+			"collector_number": "373",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Sky Diamond.png"
 			}
@@ -3010,7 +3000,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "335",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Amulet of the Elder Gods.png"
 			}
@@ -3020,7 +3010,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "348",
+			"collector_number": "350",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Concordant Helm.png"
 			}
@@ -3030,7 +3020,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "352",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Expendable Power Bank.png"
 			}
@@ -3040,7 +3030,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "387",
+			"collector_number": "389",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Void Belter.png"
 			}
@@ -3050,7 +3040,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "389",
+			"collector_number": "391",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Command Tower.png"
 			}
@@ -3060,7 +3050,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "390",
+			"collector_number": "392",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Evolving Wilds.png"
 			}
@@ -3070,7 +3060,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "395",
+			"collector_number": "397",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Rupture Spire.png"
 			}
@@ -3080,7 +3070,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "393",
+			"collector_number": "395",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Opal Palace.png"
 			}
@@ -3090,7 +3080,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "394",
+			"collector_number": "396",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Path of Ancestry.png"
 			}
@@ -3100,7 +3090,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Robot Drone ",
-			"collector_number": "368",
+			"collector_number": "370",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Repair Drone.png"
 			}
@@ -3110,7 +3100,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "369",
+			"collector_number": "371",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Repair Nanites.png"
 			}
@@ -3120,7 +3110,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem ",
-			"collector_number": "375",
+			"collector_number": "377",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Swift Bot.png"
 			}
@@ -3130,7 +3120,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "367",
+			"collector_number": "369",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Reactor-Drive Mining Drill.png"
 			}
@@ -3140,7 +3130,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Robot Drone ",
-			"collector_number": "341",
+			"collector_number": "343",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Automaton Drone.png"
 			}
@@ -3150,7 +3140,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "381",
+			"collector_number": "383",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Thorathian Conquering Fleet.png"
 			}
@@ -3160,7 +3150,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "338",
+			"collector_number": "340",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Assault Rifle.png"
 			}
@@ -3170,7 +3160,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Robot Drone ",
-			"collector_number": "378",
+			"collector_number": "380",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Techno-Pursuer.png"
 			}
@@ -3180,7 +3170,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "336",
+			"collector_number": "338",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Arcane Signet.png"
 			}
@@ -3190,7 +3180,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "370",
+			"collector_number": "372",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Shield Generator.png"
 			}
@@ -3200,7 +3190,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "382",
+			"collector_number": "384",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Thought Vessel.png"
 			}
@@ -3210,7 +3200,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "376",
+			"collector_number": "378",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Swiftfoot Boots.png"
 			}
@@ -3220,7 +3210,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "354",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Infrared Eyepiece.png"
 			}
@@ -3230,7 +3220,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "373",
+			"collector_number": "375",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Smoke Bomb.png"
 			}
@@ -3240,7 +3230,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "384",
+			"collector_number": "386",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Timeless Treasure.png"
 			}
@@ -3250,7 +3240,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "379",
+			"collector_number": "381",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Terminarch's Casing.png"
 			}
@@ -3260,7 +3250,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "334",
+			"collector_number": "336",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Aggression Modulator.png"
 			}
@@ -3270,7 +3260,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "362",
+			"collector_number": "364",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Portable Dark-Lab.png"
 			}
@@ -3280,7 +3270,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "361",
+			"collector_number": "363",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Phial of Exomna.png"
 			}
@@ -3300,7 +3290,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "392",
+			"collector_number": "394",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Mana Confluence.png"
 			}
@@ -3310,7 +3300,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "391",
+			"collector_number": "393",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Guildless Commons.png"
 			}
@@ -3667,7 +3657,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "380",
+			"collector_number": "382",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Terralunar Translocator.png"
 			}
@@ -3677,7 +3667,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "359",
+			"collector_number": "361",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Omni-Cannon.png"
 			}
@@ -3687,7 +3677,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "365",
+			"collector_number": "367",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Quietus Spike.png"
 			}
@@ -3697,7 +3687,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "360",
+			"collector_number": "362",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Orb of Delirium.png"
 			}
@@ -3707,7 +3697,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "356",
+			"collector_number": "358",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Mirage Mirror.png"
 			}
@@ -3717,7 +3707,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "343",
+			"collector_number": "345",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Balov's Clock.png"
 			}
@@ -3982,7 +3972,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "351",
+			"collector_number": "353",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/The Drum of Despair.png"
 			}
@@ -3992,7 +3982,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "340",
+			"collector_number": "342",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Atlantean Stormblade.png"
 			}
@@ -4002,7 +3992,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "358",
+			"collector_number": "360",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Musaragni's Harp.png"
 			}
@@ -4012,7 +4002,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "339",
+			"collector_number": "341",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Atlantean Font of Power.png"
 			}
@@ -4025,6 +4015,36 @@
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Busybody, Augmented Analyst.png"
+			}
+		},
+		{
+			"name": "xxtz'Hulissh, Scion of Hul",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B/R}{B/G}{W/B}",
+			"type": "Legendary Creature — Horror ",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/xxtz'Hulissh, Scion of Hul.png"
+			}
+		},
+		{
+			"name": "Wellspring, Entity of Progress",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Wellspring, Entity of Progress.png"
+			}
+		},
+		{
+			"name": "Biomancer, the Fleshfather",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}{B}",
+			"type": "Legendary Creature — Wizard ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Biomancer, the Fleshfather.png"
 			}
 		},
 		]
@@ -4129,7 +4149,6 @@
 		1 The Savage Haka
 		1 Iron Legacy
 		1 Grand Warlord Voss
-		1 Wager Master
 		1 The Dagda and the Morrigan
 		1 Psylence, Gray Conduit
 		1 Apex, Once and Future King
@@ -4154,6 +4173,9 @@
 		1 Atlantean Stormblade
 		1 Musaragni's Harp
 		1 Atlantean Font of Power
+		1 xxtz'Hulissh, Scion of Hul
+		1 Wellspring, Entity of Progress
+		1 Biomancer, the Fleshfather
 		[UncommonSlot(3)]
 	9 Doctor Medico, M.D.
 		9 Corporal Carter, Mechanized
@@ -4524,7 +4546,6 @@
 	10 Gloomweaver
 	10 Iron Legacy
 	10 Grand Warlord Voss
-	10 Wager Master
 	10 The Dagda and the Morrigan
 	10 Psylence, Gray Conduit
 	10 Chokepoint, Metal Whisperer
@@ -4822,10 +4843,14 @@
 	10 Musaragni's Harp
 	10 Atlantean Font of Power
 	10 Busybody, Augmented Analyst
+	10 xxtz'Hulissh, Scion of Hul
+	10 Wellspring, Entity of Progress
+	10 Biomancer, the Fleshfather
 		[LegendaryUncommonSlot(2)]
 		9 Sk8-Blayde
 		9 Arataki Wakarewarewa
 		9 Busybody, Augmented Analyst
+	9 Doctor Medico, M.D.
 		9 Corporal Carter, Mechanized
 		9 Chip, the Flying Ace
 		9 Senator Emily Parsons
@@ -4872,7 +4897,7 @@
 		9 Drudge, Helfyre Organist
 		9 Proletariat, People's Champion
 		[URMSlot(1)]
-		2 Blood Countess Bathory
+	2 Blood Countess Bathory
 		2 Megan Lee, Rockstar
 		2 The Naturalist
 		2 Absolute Zero, Frostwielder
@@ -4972,7 +4997,6 @@
 		1 The Savage Haka
 		1 Iron Legacy
 		1 Grand Warlord Voss
-		1 Wager Master
 		1 The Dagda and the Morrigan
 		1 Psylence, Gray Conduit
 		1 Apex, Once and Future King
@@ -4997,6 +5021,9 @@
 		1 Atlantean Stormblade
 		1 Musaragni's Harp
 		1 Atlantean Font of Power
+		1 xxtz'Hulissh, Scion of Hul
+		1 Wellspring, Entity of Progress
+		1 Biomancer, the Fleshfather
 		9 Doctor Medico, M.D.
 		9 Corporal Carter, Mechanized
 		9 Chip, the Flying Ace
@@ -5126,36 +5153,7 @@
 		9 Arataki Wakarewarewa
 		9 Busybody, Augmented Analyst
 		[LegendaryRareSlot(1)]
-		1 Galactra, Chosen of the Fervor
-		1 Jansa Vi Dero
-		1 Akash'Bhuta
-		1 Quetzalcoatl, Lord of Realms
-		1 Gene-Doctor Kronz
-		1 America's Finest Legacy
-		1 The Operative
-		1 The Argent Adept
-		1 Captain Cosmic
-		1 Omnitron, Rampaging Robot
-		1 Plague Rat, Patient Zero
-		1 Omnitron-X
-		1 Writhe, Unsettling Inventor
-		1 Aminia Twain
-		1 Infinitor, Tormented Creator
-		1 NightMist, Master of Magic
-		1 Fanatic, Angel of Judgement
-		1 Akash'Flora
-		1 Luminary, Reformed Inventor
-		1 The Scholar
-		1 The Savage Haka
-		1 Iron Legacy
-		1 Grand Warlord Voss
-		1 Wager Master
-		1 The Dagda and the Morrigan
-		1 Psylence, Gray Conduit
-		1 Apex, Once and Future King
-		1 Zhu Long
-		1 Akash'Thriya
-		2 Blood Countess Bathory
+2 Blood Countess Bathory
 		2 Megan Lee, Rockstar
 		2 The Naturalist
 		2 Absolute Zero, Frostwielder
@@ -5185,7 +5183,37 @@
 		2 Gloomweaver
 		2 Chokepoint, Metal Whisperer
 		2 Myriad, Skittering Swarm
-
+1 Galactra, Chosen of the Fervor
+		1 Jansa Vi Dero
+		1 Akash'Bhuta
+		1 Quetzalcoatl, Lord of Realms
+		1 Gene-Doctor Kronz
+		1 America's Finest Legacy
+		1 The Operative
+		1 The Argent Adept
+		1 Captain Cosmic
+		1 Omnitron, Rampaging Robot
+		1 Plague Rat, Patient Zero
+		1 Omnitron-X
+		1 Writhe, Unsettling Inventor
+		1 Aminia Twain
+		1 Infinitor, Tormented Creator
+		1 NightMist, Master of Magic
+		1 Fanatic, Angel of Judgement
+		1 Akash'Flora
+		1 Luminary, Reformed Inventor
+		1 The Scholar
+		1 The Savage Haka
+		1 Iron Legacy
+		1 Grand Warlord Voss
+		1 The Dagda and the Morrigan
+		1 Psylence, Gray Conduit
+		1 Apex, Once and Future King
+		1 Zhu Long
+		1 Akash'Thriya
+		1 xxtz'Hulissh, Scion of Hul
+		1 Wellspring, Entity of Progress
+		1 Biomancer, the Fleshfather
 [Settings]
 {
 	"name": "Commander Legends: Sentinels of the Multiverse",
