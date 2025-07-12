@@ -4846,7 +4846,7 @@
 	10 xxtz'Hulissh, Scion of Hul
 	10 Wellspring, Entity of Progress
 	10 Biomancer, the Fleshfather
-		[LegendaryUncommonSlot(2)]
+			[LegendaryUncommonSlot(2)]
 		9 Sk8-Blayde
 		9 Arataki Wakarewarewa
 		9 Busybody, Augmented Analyst

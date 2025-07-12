@@ -3414,7 +3414,7 @@ Cycling {1} ({1}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this Equipment enters, attach it to target creature you control.
-Equipped creature has “1{R}, {T}: This creature deals 2 damage to any target.”
+Equipped creature has “1R, {T}: This creature deals 2 damage to any target.”
 Equip 1R</text>
     </card>
     <card>
@@ -5964,7 +5964,7 @@ At the beginning of each player’s end step, that player reveals the top card o
       <text>Trample
 xxtz’Hulissh can’t attack unless defending player owns four or more cards in exile.
 xxtz’Hulissh can only block creatures whose controllers own four or more cards in exile.
-Creatures you control have ingest.  (Whenever they deal combat damage to a player, that player exiles the top card of their library.)</text>
+Creatures you control have ingest. (Whenever they deal combat damage to a player, that player exiles the top card of their library.)</text>
     </card>
     <card>
       <name>Wellspring, Entity of Progress</name>
