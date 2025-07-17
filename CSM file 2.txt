@@ -3290,19 +3290,19 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "394",
+			"collector_number": "393",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Mana Confluence.png"
 			}
 		},
 		{
-			"name": "Guildless Commons",
+			"name": "Mission Control",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "393",
+			"collector_number": "394",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Guildless Commons.png"
+				"en": "https://raw.githubusercontent.com/CitizenDawnX/MSE/refs/heads/main/CSM/Mission Control.png"
 			}
 		},
 		{
@@ -4447,7 +4447,7 @@
 		30 Opal Palace
 		30 Path of Ancestry
 		30 Repair Drone
-		30 Guildless Commons
+		30 Mission Control
 		[WildcardSlot(1)]
 	10 Doctor Medico, M.D.
 	10 Corporal Carter, Mechanized
@@ -4775,7 +4775,7 @@
 	10 Phial of Exomna
 	10 Stunt Double
 	10 Mana Confluence
-	10 Guildless Commons
+	10 Mission Control
 	10 Wrath of God
 	10 Flesh to Iron
 	10 Aegis of Resurrection

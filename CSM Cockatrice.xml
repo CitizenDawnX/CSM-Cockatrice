@@ -1597,7 +1597,7 @@ Enrage — Whenever this creature is dealt damage, that source’s controller sa
       </prop>
       <tablerow>2</tablerow>
       <text>WB, {T}, Pay X life: Put a gray counter on target creature with mana value X.
-Psylence has the text boxes of all creatures with gray counters on them. Creatures with gray counters on them can’t attack, block, or activate abilities.</text>
+Psylence has the abilities of all creatures with gray counters on them. Creatures with gray counters on them can’t attack, block, or activate abilities.</text>
     </card>
     <card>
       <name>Chokepoint, Metal Whisperer</name>
@@ -2587,8 +2587,8 @@ Whenever another creature dies, you may draw a card. If you do, discard a card.<
         <pt>6/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Imprint — Whenever a nontoken artifact is put into a graveyard from the battlefield, you may exile that card. If you do, return each other card exiled with this creature to its owner’s graveyard.
-This creature has the activated abilities of all cards exiled with it.</text>
+      <text>Imprint — When this creature enters, exile target artifact card from a graveyard.
+This creature has all abilities of the exiled card.</text>
     </card>
     <card>
       <name>Chemister&apos;s Insight</name>
@@ -4874,7 +4874,7 @@ You may have this creature enter as a copy of any creature on the battlefield.</
       <text>{T}, Pay 1 life: Add one mana of any color.</text>
     </card>
     <card>
-      <name>Guildless Commons</name>
+      <name>Mission Control</name>
       <set rarity="common">CSM</set>
       <prop>
         <colors></colors>
@@ -4884,9 +4884,8 @@ You may have this creature enter as a copy of any creature on the battlefield.</
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>This land enters tapped.
-When this land enters, return a land you control to its owner’s hand.
-{T}: Add CC.</text>
+      <text>{T}: Add {C}.
+{3}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
     </card>
     <card>
       <name>Wrath of God</name>
@@ -5919,7 +5918,7 @@ Equip {2}</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Each instant and sorcery in your graveyard have harmonize. The harmonize cost is equal to their mana cost. (You may cast them from your graveyard for their harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile it.)</text>
+      <text>Each instant and sorcery in your graveyard has harmonize. The harmonize cost is equal to their mana cost. (You may cast them from your graveyard for their harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile it.)</text>
     </card>
     <card>
       <name>Atlantean Font of Power</name>
