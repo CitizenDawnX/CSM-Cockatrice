@@ -724,7 +724,7 @@ Whenever you cast a spell from exile, create a Treasure token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike, haste
-Stuntman is goaded.
+Stuntman attacks each combat if able, and attacks a player other than its owner if able.
 At the beginning of each player’s upkeep, that player gains control of Stuntman and untaps it.
 Boast — {R}: Exile the top card of your library. Until the end of your next turn, you can play it. Stuntman’s owner may activate this ability. (Activate only if this creature attacked this turn and only once each turn.)</text>
     </card>
@@ -1597,7 +1597,7 @@ Enrage — Whenever this creature is dealt damage, that source’s controller sa
       </prop>
       <tablerow>2</tablerow>
       <text>WB, {T}, Pay X life: Put a gray counter on target creature with mana value X.
-Psylence has the abilities of all creatures with gray counters on them. Creatures with gray counters on them can’t attack, block, or activate abilities.</text>
+Psylence has the text box of all creatures with gray counters on them. Creatures with gray counters on them can’t attack, block, or activate abilities.</text>
     </card>
     <card>
       <name>Chokepoint, Metal Whisperer</name>
